@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "smart phone",
+      "price": 5600,
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "printer",
+      "price": 9000,
+      "checked": false
+    },
+    {
+      "name": "smart",
+      "price": "1234",
+      "checked": false,
+      "id": 5
+    },
+    {
+      "name": "smart",
+      "price": "1234",
+      "checked": false,
+      "id": 5
+    },
+    {
+      "name": "smart",
+      "price": "1234",
+      "checked": false,
+      "id": 5
+    },
+    {
+      "name": "smart",
+      "price": "1234",
+      "checked": false,
+      "id": 5
+    },
+    {
+      "name": "PHONE",
+      "price": "24443",
+      "checked": true,
+      "id": 6
+    },
+    {
+      "name": "phone",
+      "price": "385576",
+      "checked": true,
+      "id": 7
+    }
+  ]
+}
